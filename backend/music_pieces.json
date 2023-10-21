@@ -1,0 +1,85 @@
+{
+    "music_pieces": [
+        {
+            "id": 1,
+            "title": "Salve Regina",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "1502-1504"
+          },
+          {
+            "id": 2,
+            "title": "Ave Maria",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "1502-1504"
+          },
+          {
+            "id": 3,
+            "title": "L'homme armé",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "1502-1504"
+          },
+          {
+            "id": 4,
+            "title": "Missa Pange lingua",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "1502-1504"
+          },
+          {
+            "id": 5,
+            "title": "La Spagna",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "1502-1504"
+          },
+          {
+            "id": 6,
+            "title": "Missa De beata Virgine",
+            "composer": "Josquin des Prez",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
+            "location": "France",
+            "year_of_creation": "~1497"
+          },
+          {
+            "id": 7,
+            "title": "Missa Mi-mi",
+            "composer": "Johannes Ockeghem",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
+            "location": "France",
+            "year_of_creation": "1470-1475"
+          },
+          {
+            "id": 8,
+            "title": "Missa Ecce ancilla Domini",
+            "composer": "Guillaume Du Fay",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DufayBinchois.jpg",
+            "location": "France",
+            "year_of_creation": "1470-1475"
+          },
+          {
+            "id": 9,
+            "title": "Missa prolationum",
+            "composer": "Johannes Ockeghem",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
+            "location": "France",
+            "year_of_creation": "1470-1475"
+          },
+          {
+            "id": 10,
+            "title": "Missa Fors seulement",
+            "composer": "Johannes Ockeghem",
+            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
+            "location": "France",
+            "year_of_creation": "1470-1475"
+          }
+    ]
+  }
+  

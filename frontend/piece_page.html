@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hear the music</title>
+</head>
+<body>
+    <h1>Get a taste of the tunes your buddy, past or present, could be grooving to!</h1>
+    <div>
+        <p>Title: <span id="title"></span></p>
+        <p>Author: <span id="author"></span> </p>
+        <p>Year of composition: <span id="composition-year"></span> </p>
+        <p>Information about the music piece: <span id="piece-information"></span> </p>
+    </div>
+    <div>
+        <h2>Play the music!</h2>
+        <button id="togglePlay">Toggle Play</button>
+
+        <script src="https://sdk.scdn.co/spotify-player.js"></script>
+        <script>
+            window.onSpotifyWebPlaybackSDKReady = () => {
+                const token = '[My access token]';
+                const player = new Spotify.Player({
+                    name: 'Web Playback SDK Quick Start Player',
+                    getOAuthToken: cb => { cb(token); },
+                    volume: 0.5
+                });
+
+                // Ready
+                player.addListener('ready', ({ device_id }) => {
+                    console.log('Ready with Device ID', device_id);
+                });
+
+                // Not Ready
+                player.addListener('not_ready', ({ device_id }) => {
+                    console.log('Device ID has gone offline', device_id);
+                });
+
+                player.addListener('initialization_error', ({ message }) => {
+                    console.error(message);
+                });
+
+                player.addListener('authentication_error', ({ message }) => {
+                    console.error(message);
+                });
+
+                player.addListener('account_error', ({ message }) => {
+                    console.error(message);
+                });
+
+                document.getElementById('togglePlay').onclick = function() {
+                player.togglePlay();
+                };
+
+                player.connect();
+            }
+        </script>
+    </div>
+</body>
+</html>
