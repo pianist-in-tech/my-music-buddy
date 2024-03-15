@@ -4,81 +4,105 @@
             "id": 1,
             "title": "Salve Regina",
             "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
             "location": "France",
-            "year_of_creation": "1502-1504"
+            "year_of_creation": "1502",
+            "spotify_id": "2aK3WlI4EtZmKJJNZhSJeY"
           },
           {
             "id": 2,
-            "title": "Ave Maria",
-            "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
-            "location": "France",
-            "year_of_creation": "1502-1504"
+            "title": "Mass for four voices",
+            "composer": "William Byrd",
+            "location": "England",
+            "year_of_creation": "1592",
+            "spotify_id": "4IhlEFFjcl9Bn4u3JCjrdv"
           },
           {
             "id": 3,
-            "title": "L'homme armé",
-            "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
-            "location": "France",
-            "year_of_creation": "1502-1504"
+            "title": "St.Matthew Passion",
+            "composer": "J.S.Bach",
+            "location": "Germany",
+            "year_of_creation": "1727",
+            "spotify_id": "0ZxEq2jEAzXnd8csBQRVuC"
           },
           {
             "id": 4,
-            "title": "Missa Pange lingua",
-            "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
-            "location": "France",
-            "year_of_creation": "1502-1504"
+            "title": "L'Orfeo",
+            "composer": "Claudio Monteverdi",            
+            "location": "Italy",
+            "year_of_creation": "1607",
+            "spotify_id": "3bsGu9uiwqybcfXD4zKYmf"
           },
           {
             "id": 5,
-            "title": "La Spagna",
-            "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
-            "location": "France",
-            "year_of_creation": "1502-1504"
+            "title": "Dido and Aeneas",
+            "composer": "Henry Purcell",
+            "location": "England",
+            "year_of_creation": "1689",
+            "spotify_id": "6fFBLK61GqTCz3IZTrNkDH"
           },
           {
             "id": 6,
-            "title": "Missa De beata Virgine",
-            "composer": "Josquin des Prez",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg",
-            "location": "France",
-            "year_of_creation": "~1497"
+            "title": "The Creation",
+            "composer": "Joseph Haydn",           
+            "location": "Austria",
+            "year_of_creation": "1797",
+            "spotify_id": "5jAksHGPDyd3I2u8nTTd0o"
           },
           {
             "id": 7,
-            "title": "Missa Mi-mi",
-            "composer": "Johannes Ockeghem",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
-            "location": "France",
-            "year_of_creation": "1470-1475"
+            "title": "Piano Concerto No.1 in D minor",
+            "composer": "Sir William Sterndale Bennett",
+            "location": "England",
+            "year_of_creation": "1832",
+            "spotify_id": "51kar5dfASBepmaD53nQlG"
           },
           {
             "id": 8,
-            "title": "Missa Ecce ancilla Domini",
-            "composer": "Guillaume Du Fay",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DufayBinchois.jpg",
-            "location": "France",
-            "year_of_creation": "1470-1475"
+            "title": "Symphony No1. 'Titan'",
+            "composer": "Gustav Mahler",
+            "location": "Austria",
+            "year_of_creation": "1888",
+            "spotify_id": "4AzIL3IcM0gnb5HEnUYLrQ"
           },
           {
             "id": 9,
-            "title": "Missa prolationum",
-            "composer": "Johannes Ockeghem",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
-            "location": "France",
-            "year_of_creation": "1470-1475"
+            "title": "Morgen",
+            "composer": "Richard Strauss",
+            "location": "Germany",
+            "year_of_creation": "1894",
+            "spotify_id": "1YHB1xwXPgCkuGjQ0prNdb"
           },
           {
             "id": 10,
-            "title": "Missa Fors seulement",
-            "composer": "Johannes Ockeghem",
-            "album_cover_art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg/440px-Anonymous_-_Portrait_of_a_Musician%2C_64.54.jpg",
+            "title": "Jaya Radha Madhava",
+            "composer": "Bhaktivinoda Thakur",
+            "location": "India",
+            "year_of_creation": "1891",
+            "spotify_id": "6vf2FRtFqZH2Az3MPGgsmY"
+          },
+          {
+            "id": 11,
+            "title": "Violin Concerto in D major",
+            "composer": "Johannes Brahms",
+            "location": "Germany",
+            "year_of_creation": "1878",
+            "spotify_id": "2x319gl9ALUwk1EsIXUXJu"
+          },
+          {
+            "id": 12,
+            "title": "Clair de Lune",
+            "composer": "Claude Debussy",
             "location": "France",
-            "year_of_creation": "1470-1475"
+            "year_of_creation": "1890",
+            "spotify_id": "1rxcmWp7ujuP39u2P1Ehjm"
+          },
+          {
+            "id": 13,
+            "title": "Concerto for Orchestra",
+            "composer": "Bela Bartok",
+            "location": "Hungary",
+            "year_of_creation": "1943",
+            "spotify_id": "1rxcmWp7ujuP39u2P1Ehjm"
           }
     ]
   }

@@ -1,145 +1,203 @@
 {
     "famous_people": [
       {
+        "id": 0,
+        "name": "Benjamin Franklin",
+        "era": "Enlightenment",
+        "years_of_living": "1706-1790",
+        "profession": "Polymath, Inventor, Statesman",
+        "music_instrument": "Harp, Guitar",
+        "music_piece_id": "3"
+      },
+      {
+        "id": 3,
         "name": "Leonardo da Vinci",
         "era": "Renaissance",
         "years_of_living": "1452-1519",
         "profession": "Polymath, Inventor, Artist",
         "music_instrument": "Harpsichord",
-        "music_pieces": [1,2,3,4,5,6,7,8,9,10]
+        "music_piece_id": "1"
       },
+
       {
+        "id": 19,
         "name": "William Shakespeare",
         "era": "Renaissance",
         "years_of_living": "1564-1616",
         "profession": "Playwright, Poet",
-        "music_instrument": null
+        "music_instrument": null, 
+        "music_piece_id": "2"
       },
       {
+        "id": 6,
         "name": "Galileo Galilei",
         "era": "Renaissance",
         "years_of_living": "1564-1642",
         "profession": "Astronomer, Physicist, Engineer",
-        "music_instrument": "Lute"
+        "music_instrument": "Lute",
+        "music_piece_id": "4"
       },
       {
+        "id": 7,
         "name": "Isaac Newton",
         "era": "Enlightenment",
         "years_of_living": "1643-1727",
         "profession": "Mathematician, Physicist, Astronomer",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "5"
       },
       {
+        "id": 1,
         "name": "Benjamin Franklin",
         "era": "Enlightenment",
         "years_of_living": "1706-1790",
         "profession": "Polymath, Inventor, Statesman",
-        "music_instrument": "Harp, Guitar"
+        "music_instrument": "Harp, Guitar",
+        "music_piece_id": "3"
       },
       {
+        "id": 8,
         "name": "Jane Austen",
         "era": "Romanticism",
         "years_of_living": "1775-1817",
         "profession": "Novelist",
-        "music_instrument": "Piano"
+        "music_instrument": "Piano",
+        "music_piece_id": "6"
       },
       {
+        "id": 2,
         "name": "Charles Darwin",
         "era": "Victorian Era",
         "years_of_living": "1809-1882",
         "profession": "Naturalist, Biologist",
-        "music_instrument": "Piano"
+        "music_instrument": "Piano",
+        "music_piece_id": "7"
       },
       {
+        "id": 12,
         "name": "Sigmund Freud",
         "era": "Late 19th to early 20th century",
         "years_of_living": "1856-1939",
         "profession": "Psychiatrist, Neurologist",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "8"
       },
       {
+        "id": 4,
         "name": "Albert Einstein",
         "era": "Early 20th century",
         "years_of_living": "1879-1955",
         "profession": "Theoretical Physicist",
-        "music_instrument": "Violin"
+        "music_instrument": "Violin",
+        "music_piece_id": "9"
       },
       {
+        "id": 9,
         "name": "Mahatma Gandhi",
         "era": "Early to mid-20th century",
         "years_of_living": "1869-1948",
         "profession": "Political Leader, Activist",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "10"
       },
       {
+        "id": 14,
         "name": "Winston Churchill",
         "era": "Early to mid-20th century",
         "years_of_living": "1874-1965",
         "profession": "Prime Minister, Statesman, Orator",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "11"
       },
       {
+        "id": 20,
         "name": "Marie Curie",
         "era": "Late 19th to early 20th century",
         "years_of_living": "1867-1934",
         "profession": "Physicist, Chemist",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "12"
       },
       {
+        "id": 16,
         "name": "Nelson Mandela",
         "era": "20th century",
         "years_of_living": "1918-2013",
         "profession": "Anti-Apartheid Revolutionary, Politician",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "13"
       },
       {
+        "id": 17,
         "name": "Martin Luther King Jr.",
         "era": "20th century",
         "years_of_living": "1929-1968",
         "profession": "Civil Rights Leader, Activist",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "14"
       },
       {
+        "id": 11,
         "name": "Mother Teresa",
         "era": "20th century",
         "years_of_living": "1910-1997",
         "profession": "Missionary, Nun, Humanitarian",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "15"
       },
       {
+        "id": 15,
         "name": "Neil Armstrong",
         "era": "20th century",
         "years_of_living": "1930-2012",
         "profession": "Astronaut, Engineer",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "16"
       },
       {
+        "id": 13,
         "name": "Steve Jobs",
         "era": "Late 20th to early 21st century",
         "years_of_living": "1955-2011",
         "profession": "Entrepreneur, Co-founder of Apple Inc.",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "17"
       },
       {
+        "id": 10,
         "name": "Malala Yousafzai",
         "era": "21st century",
         "years_of_living": "born 1997",
         "profession": "Activist, Author",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "18"
       },
       {
+        "id": 5,
         "name": "Elon Musk",
         "era": "21st century",
         "years_of_living": "born 1971",
         "profession": "Entrepreneur, CEO of SpaceX, Tesla",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "19"
       },
       {
+        "id": 18,
         "name": "Greta Thunberg",
         "era": "21st century",
         "years_of_living": "born 2003",
         "profession": "Environmental Activist",
-        "music_instrument": null
+        "music_instrument": null,
+        "music_piece_id": "20"
+      },
+      {
+        "id": 21,
+        "name": "Benjamin Franklin",
+        "era": "Enlightenment",
+        "years_of_living": "1706-1790",
+        "profession": "Polymath, Inventor, Statesman",
+        "music_instrument": "Harp, Guitar",
+        "music_piece_id": "3"
       }
     ]
   }

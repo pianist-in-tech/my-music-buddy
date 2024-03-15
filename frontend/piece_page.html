@@ -7,55 +7,18 @@
 </head>
 <body>
     <h1>Get a taste of the tunes your buddy, past or present, could be grooving to!</h1>
-    <div>
-        <p>Title: <span id="title"></span></p>
-        <p>Author: <span id="author"></span> </p>
-        <p>Year of composition: <span id="composition-year"></span> </p>
-        <p>Information about the music piece: <span id="piece-information"></span> </p>
+    <div id="pieceInfo">
+        <p>Title: <span id="pieceTitle"></span></p>
+        <p>Composer: <span id="pieceComposer"></span> </p>
+        <!-- <p>Approximate Year of composition: <span id="pieceYear"></span> </p> -->
+        <!-- <p>Information about the music piece: <span id="pieceDescription"></span> </p> -->
     </div>
     <div>
         <h2>Play the music!</h2>
-        <button id="togglePlay">Toggle Play</button>
-
-        <script src="https://sdk.scdn.co/spotify-player.js"></script>
-        <script>
-            window.onSpotifyWebPlaybackSDKReady = () => {
-                const token = '[My access token]';
-                const player = new Spotify.Player({
-                    name: 'Web Playback SDK Quick Start Player',
-                    getOAuthToken: cb => { cb(token); },
-                    volume: 0.5
-                });
-
-                // Ready
-                player.addListener('ready', ({ device_id }) => {
-                    console.log('Ready with Device ID', device_id);
-                });
-
-                // Not Ready
-                player.addListener('not_ready', ({ device_id }) => {
-                    console.log('Device ID has gone offline', device_id);
-                });
-
-                player.addListener('initialization_error', ({ message }) => {
-                    console.error(message);
-                });
-
-                player.addListener('authentication_error', ({ message }) => {
-                    console.error(message);
-                });
-
-                player.addListener('account_error', ({ message }) => {
-                    console.error(message);
-                });
-
-                document.getElementById('togglePlay').onclick = function() {
-                player.togglePlay();
-                };
-
-                player.connect();
-            }
-        </script>
+        <button id="play-button">Play</button>
     </div>
+    <iframe id="spotify-embed" style="border-radius:12px" width="70%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <script src="piece_page.js"></script>
 </body>
 </html>
