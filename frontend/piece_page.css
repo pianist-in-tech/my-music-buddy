@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    margin: 0; /* Optional: to remove default margin */
+    padding: 0; /* Optional: to remove default padding */
+}
+
+h1, h2, #pieceInfo {
+    color: whitesmoke;
+    padding-left: 30px;
+}
+
+p {
+    font-size: large;
+}
+
+#backButtonDiv {
+    padding: 10px;
+}
+
+#backButton {
+    font-size: 15px;
+    background-color: whitesmoke;
+    padding: 5px;
+    border: 3px solid blanchedalmond;
+    border-radius: 20%;
+}
+
+

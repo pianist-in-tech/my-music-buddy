@@ -103,6 +103,62 @@
             "location": "Hungary",
             "year_of_creation": "1943",
             "spotify_id": "1rxcmWp7ujuP39u2P1Ehjm"
+          },
+          {
+            "id": 14,
+            "title": "Blueberry Hill",
+            "composer": "Vincent Rose, Larry Stock, and Al Lewis",
+            "location": "USA",
+            "year_of_creation": "1940",
+            "spotify_id": "2LSW1nlRZCHA6rZayezAUF"
+          },
+          {
+            "id": 15,
+            "title": "Sri Kamalambike",
+            "composer": "Papanasam Sivan",
+            "location": "India",
+            "year_of_creation": "1900",
+            "spotify_id": "4ncrmNMufIb4cQIl5NJBVB"
+          },
+          {
+            "id": 16,
+            "title": "The Young Person's Guide to the Orchestra",
+            "composer": "Benjamin Britten",
+            "location": "England",
+            "year_of_creation": "1945",
+            "spotify_id": "0w4LgJ5G1Xz5jLS3HX8oyq"
+          },
+          {
+            "id": 17,
+            "title": "Tabula Rasa",
+            "composer": "Arvo Pärt",
+            "location": "Austria",
+            "year_of_creation": "1977",
+            "spotify_id": "7fjCjhCZdR0gSPVyv3DluQ"
+          },
+          {
+            "id": 18,
+            "title": "O Mundo É Um Moinho",
+            "composer": "Cartola",
+            "location": "Brazil",
+            "year_of_creation": "1976",
+            "spotify_id": "0V0rJoEXqrMRy7l9qadP9x"
+          },
+          {
+            "id": 19,
+            "title": "Viva la Vida",
+            "composer": "Coldplay",
+            "location": "England",
+            "year_of_creation": "2008",
+            "spotify_id": "1mea3bSkSGXuIRvnydlB5b"
+          },
+          {
+            "id": 20,
+            "title": "Divenire",
+            "composer": "Ludovico Einaudi",
+            "location": "Italy",
+            "year_of_creation": "2006",
+            "spotify_id": "6KpO4neDXxGdiEgsivZieY"
           }
     ]
   }
