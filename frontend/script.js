@@ -1,16 +1,13 @@
 // **************index.js************
 document.addEventListener('DOMContentLoaded', function() {
-    if (document.body.id === 'index') {
+    
     const playButton = document.getElementById('button');
 
 playButton.addEventListener('click', ()=>{
     window.location.href = 'famous_people.html';
 });
-    }
-})
+
 //************famous-people.js***************
-if (document.body.id === 'famous_people') {
-    document.addEventListener('DOMContentLoaded', function() {
 const carouselSlide = document.querySelector('.carousel-slide');
 const carouselImages = document.querySelectorAll('.carousel-slide img');
 
@@ -116,21 +113,17 @@ function handleImageClick(event) {
             console.error('error fetching music piece info:', error);
         })
     } 
-}
-    )}
 // ***********piece_page.js***************
-if (document.body.id === 'piece_page') {
-    document.addEventListener('DOMContentLoaded', function() {
+
     // Read parameters from the URL
     const urlParams = new URLSearchParams(window.location.search);
     const spotifyId = urlParams.get('id');
     console.log('spotify Id:', spotifyId)
     const title = urlParams.get('title');
     const composer = urlParams.get('composer');
-    const backButton = this.getElementById('backButton');
+    const backButton = document.getElementById('backButton');
   
     // Fetch music pieces information based on the person's years of living
-
     const displayElement = document.getElementById('pieceInfo');
 
     // Display information about the person and the selected music piece
@@ -147,9 +140,5 @@ if (document.body.id === 'piece_page') {
     backButton.addEventListener ('click', function() {
         window.location.href = 'famous_people.html';
     })
-}
-    )};
 
-
-
-
+})

@@ -1,7 +1,7 @@
 /* home css */
 
-#home {
-    display: flex;
+body {
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -53,11 +53,6 @@ video {
 
 /* famous_people css */
 
-#famousPeople {
-    background-color: black;
-    margin: 0; /* Optional: to remove default margin */
-    padding: 0; /* Optional: to remove default padding */
-}
 
 #h1FamousPeople {
     text-align: center; /* Center the text horizontally */
@@ -119,11 +114,6 @@ video {
 
 /* piece_page css */
 
-#piecePage {
-    background-color: black;
-    margin: 0; /* Optional: to remove default margin */
-    padding: 0; /* Optional: to remove default padding */
-}
 
 #h1PiecePage, h2, #pieceInfo {
     color: whitesmoke;
