@@ -1,15 +1,31 @@
-*{
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-}
+/* home css */
 
-body {
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
     background-color: black;
-    margin: 0; /* Optional: to remove default margin */
-    padding: 0; /* Optional: to remove default padding */
 }
 
+#video-container {
+    position: flex;
+    top: 50%;
+    left: 50%;
+    width: 70%;
+    height: 70%;
+    /* transform: translate(-50%, -50%); Center precisely */
+    overflow: hidden;
+    z-index: -1;
+}
+
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
 
 @keyframes rainbow {
     0% { color: red; }
@@ -21,7 +37,29 @@ body {
     85% { color: violet; }
     100% { color: red; }
 }
-h1 {
+
+#button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    background-color: transparent;
+    border: solid black 1px;
+    font-size: 50px;
+    animation: rainbow 5s linear infinite;
+    padding: 30px 50px;
+}
+
+/* famous_people css */
+
+#famousPeople {
+    background-color: black;
+    margin: 0; /* Optional: to remove default margin */
+    padding: 0; /* Optional: to remove default padding */
+}
+
+#h1FamousPeople {
     text-align: center; /* Center the text horizontally */
     /* margin: 10 auto; Center the element horizontally within its container */
     margin-top: 40px;
@@ -78,3 +116,34 @@ h1 {
     opacity: 0.5;
     cursor: pointer;
 }
+
+/* piece_page css */
+
+#piecePage {
+    background-color: black;
+    margin: 0; /* Optional: to remove default margin */
+    padding: 0; /* Optional: to remove default padding */
+}
+
+#h1PiecePage, h2, #pieceInfo {
+    color: whitesmoke;
+    padding-left: 30px;
+}
+
+p {
+    font-size: large;
+}
+
+#backButtonDiv {
+    padding: 10px;
+}
+
+#backButton {
+    font-size: 15px;
+    background-color: whitesmoke;
+    padding: 5px;
+    border: 3px solid blanchedalmond;
+    border-radius: 20%;
+}
+
+

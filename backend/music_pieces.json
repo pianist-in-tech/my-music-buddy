@@ -159,6 +159,286 @@
             "location": "Italy",
             "year_of_creation": "2006",
             "spotify_id": "6KpO4neDXxGdiEgsivZieY"
+          },
+          {
+            "id": 21,
+            "title": "Missa Pange Lingua",
+            "composer": "Josquin des Prez",      
+            "year_of_creation": "1514",
+            "spotify_id": "6Pr2y6tOZ841xSvdaO9SgD"
+          },
+          {
+            "id": 22,
+            "title": "Ave maris stella",
+            "composer": "Guillaume Dufay",      
+            "year_of_creation": "1474",
+            "spotify_id": "74ZO67W83WAwvOopHFiQ7j"
+          },
+          {
+            "id": 23,
+            "title": "Mass in B Minor",
+            "composer": "Johann Sebastian Bach",      
+            "year_of_creation": "1749",
+            "spotify_id": "6QPxQiev0S6KDnzkcpWmq9"
+          },
+          {
+            "id": 24,
+            "title": "Water Music",
+            "composer": "George Frideric Handel",      
+            "year_of_creation": "1717",
+            "spotify_id": "5qGrDJspH7rSB1OFmT6A2N"
+          },
+          {
+            "id": 25,
+            "title": "Flow, my tears",
+            "composer": "John Dowland",      
+            "year_of_creation": "1600",
+            "spotify_id": "3Zxdi1d6sYDVmgOh1Ylblv"
+          },
+          {
+            "id": 26,
+            "title": "The Silver Swan",
+            "composer": "Orlando Gibbons",      
+            "year_of_creation": "1612",
+            "spotify_id": "6Rj9UT3CQ5GZ2f1pHq1bI0"
+          },
+          {
+            "id": 27,
+            "title": "In acclesiis",
+            "composer": "Giovanni Gabrieli",      
+            "year_of_creation": "1600",
+            "spotify_id": "5PSscFRKa447K9mfRAZUX0"
+          },
+          {
+            "id": 28,
+            "title": "Ave verum corpus",
+            "composer": "William Byrd",      
+            "year_of_creation": "1605",
+            "spotify_id": "7J6b58JOnf4RGGqJmxq0bD"
+          },
+          {
+            "id": 29,
+            "title": "The Four Seasons",
+            "composer": "Antonio Vivaldi",      
+            "year_of_creation": "1723",
+            "spotify_id": "3RUBMVfbweULyfoVMXTOLV"
+          },
+          {
+            "id": 30,
+            "title": "Concerti Grossi, Op.6",
+            "composer": "Arcangelo Corelli",      
+            "year_of_creation": "1714",
+            "spotify_id": "093axUvwPTiTbnNsDh9ZpH"
+          },
+          {
+            "id": 31,
+            "title": "Symphony No.40 in G minor, K.550",
+            "composer": "Wolfgang Amadeus Mozart",      
+            "year_of_creation": "1788",
+            "spotify_id": "6fHx8cLNYczAJWU1t289LG"
+          },
+          {
+            "id": 32,
+            "title": "Symphony No.5 in C minor, Op.67",
+            "composer": "Ludwig van Beethoven",      
+            "year_of_creation": "1805",
+            "spotify_id": "0eBr9W1GE5nou99gRdy02J"
+          },
+          {
+            "id": 33,
+            "title": "Piano Sonata in A major, D.959",
+            "composer": "Franz Schubert",      
+            "year_of_creation": "1828",
+            "spotify_id": "5NPOzuvfynICmXd2HAJPEL"
+          },
+          {
+            "id": 34,
+            "title": "Violin Concerto in E minor, Op.64",
+            "composer": "Felix Mendelssohn",      
+            "year_of_creation": "1844",
+            "spotify_id": "7y9ygf5AHcHwoSlnhFvF6F"
+          },
+          {
+            "id": 35,
+            "title": "Piano Concerto No.1 in B-flat minor, Op.23",
+            "composer": "Pyotr Ilyich Tchaikovsky",      
+            "year_of_creation": "1874",
+            "spotify_id": "62dD6AMgEvZq5OCHAZ7d9a"
+          },
+          {
+            "id": 36,
+            "title": "Piano Concerto No.2 in C minor, Op.18",
+            "composer": "Sergei Rachmaninoff",      
+            "year_of_creation": "1900",
+            "spotify_id": "7fcDQg8prLdJwim6Ey7neB"
+          },
+          {
+            "id": 37,
+            "title": "The Firebird",
+            "composer": "Igor Stravinsky",      
+            "year_of_creation": " 1910",
+            "spotify_id": "2UWqLhazLDNaSK6PlgMhXc"
+          },
+          {
+            "id": 38,
+            "title": "The Nutcracker",
+            "composer": "Pyotr Ilyich Tchaikovsky",      
+            "year_of_creation": "1891",
+            "spotify_id": "11WQasJcGWgh3mvR1UiBcm"
+          },
+          {
+            "id": 39,
+            "title": "Ekla Chalo Re",
+            "composer": "Rabindranath Tagore",      
+            "year_of_creation": " 1905",
+            "spotify_id": "1NBS6Ay7tPkHuFeAR4PvN8"
+          },
+          {
+            "id": 40,
+            "title": "Amar Shonar Bangla",
+            "composer": "Rabindranath Tagore",      
+            "year_of_creation": "1905",
+            "spotify_id": "0VlGH9r3jbqefdVxeJx4cL"
+          },
+          {
+            "id": 41,
+            "title": "Rhapsody in Blue",
+            "composer": "George Gershwin",      
+            "year_of_creation": " 1924",
+            "spotify_id": "7oB0QBEnGRIJjvlDc8YnM6"
+          },
+          {
+            "id": 42,
+            "title": "Appalachian Spring",
+            "composer": "Aaron Copland",      
+            "year_of_creation": "1944",
+            "spotify_id": "0n3hKCBizwg7LKRpy1Iz5R"
+          },
+          {
+            "id": 43,
+            "title": "Symphony of Psalms",
+            "composer": "Igor Stravinsky",      
+            "year_of_creation": " 1930",
+            "spotify_id": "0fGQ7vr0T87kibAxZNcEp3"
+          },
+          {
+            "id": 44,
+            "title": "Das Lied von der Erde",
+            "composer": "Gustav Mahler",      
+            "year_of_creation": "1908",
+            "spotify_id": "1m1yWyFZlqr1LWsWHFodIq"
+          },
+          {
+            "id": 45,
+            "title": "Piano Concerto No. 1",
+            "composer": "Béla Bartók",      
+            "year_of_creation": " 1926",
+            "spotify_id": "1digmGByFmf2Bu11vMGGxt"
+          },
+          {
+            "id": 46,
+            "title": "Requiem",
+            "composer": "Krzysztof Penderecki",      
+            "year_of_creation": "1980",
+            "spotify_id": "3dnEWpmUUwN0rKvtKh62Yd"
+          },
+          {
+            "id": 47,
+            "title": "Symphony No. 6",
+            "composer": "Dmitri Shostakovich",      
+            "year_of_creation": " 1939",
+            "spotify_id": "23nUUSzIZMHYqbO7rJCEF4"
+          },
+          {
+            "id": 48,
+            "title": "Concerto for Orchestra",
+            "composer": "Witold Lutosławski",      
+            "year_of_creation": "1954",
+            "spotify_id": "2RDvNrUqArXEXVl9Hxod3n"
+          },
+          {
+            "id": 49,
+            "title": "Symphony No. 5",
+            "composer": "Ralph Vaughan Williams",      
+            "year_of_creation": " 1943",
+            "spotify_id": "2XzoM6B4086fVfM4qeRsTP"
+          },
+          {
+            "id": 50,
+            "title": "Adagio for Strings",
+            "composer": "Samuel Barber",      
+            "year_of_creation": "1936",
+            "spotify_id": "1CSaCKPIp2yCIDL3t7Fyau"
+          },
+          {
+            "id": 51,
+            "title": "Violin Concerto",
+            "composer": "Alban Berg",      
+            "year_of_creation": " 1935",
+            "spotify_id": "0TPeXLC56GfnWscAYX091j"
+          },
+          {
+            "id": 52,
+            "title": "Piano Sonata No. 8 in B-flat major, Op. 84",
+            "composer": "Sergei Prokofiev",      
+            "year_of_creation": "1940",
+            "spotify_id": "0baGBF54vMSP9GiWkDaDFA"
+          },
+          {
+            "id": 53,
+            "title": "The Protecting Veil",
+            "composer": "John Tavener",      
+            "year_of_creation": " 1989",
+            "spotify_id": "7jwTDrbtWg8E9Io6xLG5AV"
+          },
+          {
+            "id": 54,
+            "title": "Duo for Violin and Viola",
+            "composer": "Krzysztof Penderecki",      
+            "year_of_creation": "1976",
+            "spotify_id": "2TqgQJ4C92pTT9HTwyx21p"
+          },
+          {
+            "id": 55,
+            "title": "On the Transmigration of Souls",
+            "composer": "John Adams",      
+            "year_of_creation": "2002",
+            "spotify_id": "6EFAKtulkpjjOqE9XwjTzj"
+          },
+          {
+            "id": 56,
+            "title": "The Light of the World",
+            "composer": "John Rutter",      
+            "year_of_creation": "2008",
+            "spotify_id": "6fGVSP5pUg4FXkJo8iI5EZ"
+          },
+          {
+            "id": 57,
+            "title": "The Armed Man: A Mass for Peace",
+            "composer": "Karl Jenkins",      
+            "year_of_creation": "2000",
+            "spotify_id": "7xRO6wrjYqdtWSqTzJssAN"
+          },
+          {
+            "id": 58,
+            "title": "Symphony No. 9",
+            "composer": "Philip Glass",      
+            "year_of_creation": "2012",
+            "spotify_id": "3acDpIuuxw8ZbCwSthC4Xw"
+          },
+          {
+            "id": 59,
+            "title": "Requiem for the Living",
+            "composer": "Dan Forrest",      
+            "year_of_creation": "2013",
+            "spotify_id": "2HIINAI39pGXdMllnwANxy"
+          },
+          {
+            "id": 60,
+            "title": "Piano Concerto No. 2",
+            "composer": "Jennifer Higdon",      
+            "year_of_creation": "2004",
+            "spotify_id": "4N3RExZJRG4ZHhdgZFGTO8"
           }
     ]
   }
