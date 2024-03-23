@@ -1,7 +1,8 @@
 /* home css */
 
 body {
-    /* display: flex; */
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -55,22 +56,20 @@ video {
 
 
 #h1FamousPeople {
-    text-align: center; /* Center the text horizontally */
-    /* margin: 10 auto; Center the element horizontally within its container */
-    margin-top: 40px;
-    animation: rainbow 5s linear infinite; /* Combine animation properties */
-    /* transform: translate(-50%, -50%); */
+    text-align: center;
+    margin: 10 auto; 
+    margin-top: 10px;
+    animation: rainbow 5s linear infinite; 
     z-index: 1;
     background-color: transparent;
     /* border: solid black 1px; */
-    font-size: 30px;
+    font-size: 20px;
     padding: 30px 5px;
 }
 
 .carousel-container{
     width: 100%;
     margin: auto;
-    /* border: 5px solid white; */
     overflow: hidden;
     position: relative;
     /* overflow-x: auto; Enable horizontal scrollbar */
@@ -80,7 +79,7 @@ video {
     display: flex;
     width: 300px;
     height: 300px;
-    margin-top: 7%;
+    margin-top: 2%;
     padding-bottom: 20px;
 }
 
