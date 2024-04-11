@@ -139,10 +139,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Set the src attribute of the iframe to the dynamically constructed URL
   const spotifyEmbed = document.getElementById("spotify-embed");
-  if(spotifyEmbed){
+  if (spotifyEmbed) {
     spotifyEmbed.src = embedUrl;
   }
-
 
   backButton?.addEventListener("click", function () {
     window.location.href = "famous_people.html";
